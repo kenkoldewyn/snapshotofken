@@ -78,3 +78,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+# ...existing code...
+taxonomies:
+  category: categories
+  tag: tags
+# ...existing code...

@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 05 Jan 2025 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1 - Greek Salad</title>
+      <link>http://localhost:1313/recipes/week1/</link>
+      <pubDate>Sun, 05 Jan 2025 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/week1/</guid>
+      <description>Recipe Challenge</description>
+    </item>
   </channel>
 </rss>
