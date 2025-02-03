@@ -38,14 +38,14 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi, I'm Ken \U0001F44B"
     Content: Boston based, soon to be a Seattlite. Self-procalimed hipster doofus, obsessed with internet technology, Apple, and using ChatGPT for therapy. This is my website.
 
   socialIcons:
     - name: github
       url: "https://github.com/kenkoldewyn"
     - name: Bluesky
-      url: "https://bsky.app/profile/snapshotofken"
+      url: "https://bsky.app/profile/snapshotofken.bsky.social"
 
   # for search
   # https://fusejs.io/api/options.html
