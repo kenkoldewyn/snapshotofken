@@ -10,7 +10,7 @@ buildExpired: false
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: A Snapshot of Ken
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -39,11 +39,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: This is my website.
+    Content: Boston based, soon to be a Seattlite. Self-procalimed hipster doofus, obsessed with internet technology, Apple, and using ChatGPT for therapy. This is my website.
 
   socialIcons:
     - name: github
       url: "https://github.com/kenkoldewyn"
+    - name: Bluesky
+      url: "https://bsky.app/profile/snapshotofken"
 
   # for search
   # https://fusejs.io/api/options.html
